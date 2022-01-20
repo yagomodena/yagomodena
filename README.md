@@ -1,19 +1,10 @@
-### Olá! Eu sou o Yago 👋
-
-- 🔭 Atualmente sou estagiário na CSoftware
-- 🌱 Estudando C#
-- 📫 Contate-me no email: modenayago@yahoo.com
-- 😄 Pronouns: ele/dele
-
-##
-
 <div align="center">
   <a href="https://github.com/yagomodena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagomodena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagomodena&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-##
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,5 +23,7 @@
   <a href = "mailto:yagobmodena1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yago-modena-5726b51b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  ![Snake animation](https://github.com/yagomodena/yagomodena/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
