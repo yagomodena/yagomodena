@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/yagomdoena/">Yago Modena😃️</a>
+    <a href="https://www.linkedin.com/in/yagomodena/"  target="_blank">Yago Modena😃️</a>
   </h1>
   
 </div>
