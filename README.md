@@ -1,34 +1,35 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Olá!%20Eu%20sou%20o%20Yago%20Modena&fontAlign=50&fontAlignY=40&color=gradient&fontSize=60)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Yago+Borges+Modena;Tenho+21+anos;Sou+graduando+do+curso+Ciências+da+Computação-UNIP;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
+
+Desenvolvedor backend .NET. Conhecimento em C# .NET, ASP.NET, SQL Server. Apaixonado por desenvolvimento!
+
+
 <div>
+   	<a href="https://github.com/yagomodena">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagomodena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagomodena&layout=compact&hide_border=true&title_color=00b8e4&text_color=00b8e4&bg_color=0d1117" />
+</div>
+
+
+<div style="display: inline_block"><br>
+  	<img align="center" alt="YagoModena" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C#/C#.svg">
+  	<img align="center" alt="YagoModena" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQLSERVER/SQLSERVER">
+</div>
   
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/yagomodena/"  target="_blank">Yago Modena😃️</a>
-  </h1>
+##
+
+<div>
+     <a href="https://www.linkedin.com/in/yagomodena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  	 <a href="https://www.instagram.com/yagomodena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  	 <a href = "mailto:yagobmodena1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+<br>
+<p align="centre"><b>Contagem de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yagomodena}/count.svg" /></p> 
+<br>
+</div>
   
-</div>
-
-<div align="center">
-  <a href="https://github.com/yagomodena">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yagomodena&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagomodena&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div><br>
-
-<div align="center">
-  <a href="https://www.instagram.com/yagomodena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yagomdoena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="yagobmodena1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
-
   ![Snake animation](https://github.com/yagomodena/yagomodena/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
