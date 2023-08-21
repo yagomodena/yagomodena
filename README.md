@@ -1,41 +1,24 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Olá!%20Eu%20sou%20o%20Yago%20Modena&fontAlign=50&fontAlignY=40&color=gradient&fontSize=60)
+<h1 align="center">Olá eu sou o Yago Modena</h1>
+<h3 align="center">Desenvolvedor Backend .NET</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Yago+Borges+Modena;Tenho+21+anos;Sou+graduando+do+curso+Ciências+da+Computação-UNIP;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yagomodena&label=Profile%20views&color=0e75b6&style=flat" alt="yagomodena" /> </p>
 
-Desenvolvedor backend .NET. Conhecimento em C# .NET, ASP.NET, SQL Server. Apaixonado por desenvolvimento!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yagomodena" alt="yagomodena" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/yagomodena" target="blank"><img src="https://img.shields.io/twitter/follow/yagomodena?logo=twitter&style=for-the-badge" alt="yagomodena" /></a> </p>
 
-<div>
-   	<a href="https://github.com/yagomodena">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagomodena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagomodena&layout=compact&hide_border=true&title_color=00b8e4&text_color=00b8e4&bg_color=0d1117" />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yagomodena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yagomodena" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yagomodena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yagomodena" height="30" width="40" /></a>
+<a href="https://fb.com/yagomodena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yagomodena" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<div style="display: inline_block"><br>
-  	<img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  	<img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-	<img align="center" alt=".Net Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-	<img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-	<img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-	<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-	<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-	<img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-</div>
-  
-##
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagomodena&show_icons=true&locale=en&layout=compact" alt="yagomodena" /></p>
 
-<div>
-     <a href="https://www.linkedin.com/in/yagomodena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  	 <a href="https://www.instagram.com/yagomodena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  	 <a href = "mailto:yagobmodena1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagomodena&show_icons=true&locale=en" alt="yagomodena" /></p>
 
-<div align="center">
-<br>
-<p align="centre"><b>Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yagomodena}/count.svg" /></p> 
-<br>
-</div>
-  
-  ![Snake animation](https://github.com/yagomodena/yagomodena/blob/output/github-contribution-grid-snake.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagomodena&" alt="yagomodena" /></p>
