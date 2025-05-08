@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Yago+Borges+Modena;Tenho+21+anos;Sou+graduando+do+curso+Ciências+da+Computação-UNIP;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	Desenvolvedor backend .NET. Conhecimento em C# .NET, ASP.NET, SQL Server. Apaixonado por desenvolvimento!
+	Desenvolvedor Mobile - Kotlin, Java e Flutter. Apaixonado por desenvolvimento!
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagomodena&" alt="yagomodena" /></p>
    	<a href="https://github.com/yagomodena">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagomodena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -11,13 +11,14 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+	<img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+	<img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+	<img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+	<img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">
   	<img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   	<img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-	<img align="center" alt=".Net Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 	<img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-	<img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 	<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-	<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
   
 ##
