@@ -3,11 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Yago+Borges+Modena;Tenho+23+anos;Formado+em+Ciências+da+Computação;e+pós+graduado+em;Desenvolvimento+Mobile;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	Desenvolvedor Mobile - Kotlin, Java e Flutter. Apaixonado por desenvolvimento!
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagomodena&" alt="yagomodena" /></p>
-   	<a href="https://github.com/yagomodena">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagomodena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagomodena&layout=compact&hide_border=true&title_color=00b8e4&text_color=00b8e4&bg_color=0d1117" />
+	Desenvolvedor Mobile - Kotlin, Java e Flutter. Apaixonado por desenvolvimento Mobile!
 </div>
 
 <div align="center" style="display: inline_block"><br>
