@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Yago+Borges+Modena;Tenho+23+anos;Formado+em+Ciências+da+Computação;e+pós+graduado+em;Desenvolvimento+Mobile;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	Desenvolvedor Mobile - Kotlin, Java e Flutter. Apaixonado por desenvolvimento Mobile!
+	Desenvolvedor Mobile - Kotlin | Java | Flutter. Apaixonado por desenvolvimento Mobile!
 </div>
 
 <div align="center" style="display: inline_block"><br>
