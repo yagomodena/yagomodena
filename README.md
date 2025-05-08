@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F5FF0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Yago+Borges+Modena;Tenho+21+anos;Sou+graduando+do+curso+Ciências+da+Computação-UNIP;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Yago+Borges+Modena;Tenho+23+anos;Sou+graduando+do+curso+Ciências+da+Computação+e+pós+graduado+em+Desenvolvimento+Mobile;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 	Desenvolvedor Mobile - Kotlin, Java e Flutter. Apaixonado por desenvolvimento!
